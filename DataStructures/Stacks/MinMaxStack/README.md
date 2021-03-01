@@ -13,3 +13,7 @@
 5.GetMin - Gets the min value of the stack
 
 6.GetMax - Gets the max value of the stack
+
+###Testing:
+
+Currently I'm testing it manually, but in the future I'll implement some unit tests to test all packages i get here.
